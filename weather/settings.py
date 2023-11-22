@@ -82,7 +82,7 @@ DATABASES = {
     }
 }
 
-
+#postgres://tetka_user:bKC0l0EaEmfADNs2guHPTWjMuCAXdNEl@dpg-cl8afpf6e7vc73a42m50-a.oregon-postgres.render.com/tetka 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
